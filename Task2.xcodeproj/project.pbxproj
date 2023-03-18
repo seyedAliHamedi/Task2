@@ -69,7 +69,6 @@
 		CB73B5F629C4EC0500EAE5D6 /* Task2 */ = {
 			isa = PBXGroup;
 			children = (
-				CB73B60B29C501DA00EAE5D6 /* New Group */,
 				CB73B5F729C4EC0500EAE5D6 /* AppDelegate.swift */,
 				CB73B5F929C4EC0500EAE5D6 /* SceneDelegate.swift */,
 				CB73B5FB29C4EC0500EAE5D6 /* MainViewController.swift */,
@@ -78,13 +77,6 @@
 				CB73B60529C4EC0600EAE5D6 /* Info.plist */,
 			);
 			path = Task2;
-			sourceTree = "<group>";
-		};
-		CB73B60B29C501DA00EAE5D6 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		D22E0A65BBCA0E445C7BFF13 /* Pods */ = {

@@ -8,3 +8,4 @@ target 'Task2' do
   # Pods for Task2
   pod 'GoogleMaps', '7.4.0'
 end
+ 
